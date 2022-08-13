@@ -1,0 +1,34 @@
+body {font-family: 'Roboto Slab', serif;
+      background-color: #3a354b;
+      color: white;
+}
+nav {background-color: #aa9bf6;}
+/* Navigasi */
+.nav {border-style: none;
+      background-color: #d5caf4;
+      margin-top: 0px;
+      padding-bottom: 4px;
+      padding-top: 4px;
+      border-bottom: 3px solid #0dacd0;
+      border-left: 2px solid #ffffff;
+      border-radius: 10px;
+      font-size: 14pt;
+      font-family: 'Rubik Dirt', cursive;
+}
+
+
+.socmed {border: none;
+         padding-top: 280px;
+}
+
+.link {color: white;
+       border: none;}
+ 
+
+.but {position: fixed;
+      bottom: 30px;
+      right: 20px;}
+.aside {display: flex;
+        align-content: bottom;
+        float: right;
+}
